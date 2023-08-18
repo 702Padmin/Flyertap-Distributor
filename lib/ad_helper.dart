@@ -1,5 +1,4 @@
 import 'dart:io';
-
 class AdHelper {
 
   static String get bannerAdUnitId {
