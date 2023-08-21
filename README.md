@@ -26,6 +26,11 @@ To start using that App users must first sign up. So there needs to be a system 
 After that Data will be saved to the backend and users will be redirected to App Home Feed.
 
 
+## Jobs
+The App Home Feed shows all the jobs available to them. These jobs will show up on their feed depending on what service areas they choose. For example, if they choose las vegas they will only see las vegas jobs on the feed. From the feed, they should be able to view job details such as:
+-  Area
+-  Pay
+-  Flyer Amount
 
 ## Database
 This mobile application will be developed using Flutter using a MySQL Database with WordPress as headless cms.
