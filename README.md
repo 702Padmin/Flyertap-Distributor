@@ -6,7 +6,9 @@ Flyertap Distributor is a Mobile Application where people can sign up to become 
 ### Required Versions
 -  Flutter SDK: 3.7.11
 -  Dart SDK: 2.19.6
+
 Install Flutter 3.7.11 here(Flutter already has correct Dart Version installed): https://docs.flutter.dev/release/archive?tab=windows
+
 Installation Instructions are found here: https://docs.flutter.dev/get-started/install
 
 Once you have downloaded the appropriate Flutter Version go ahead and clone the "dev" branch to your local.
@@ -15,17 +17,17 @@ git clone https://github.com/PATH-TO/REPOSITORY
 ```
 and then run the App.
 
-If you experience any issues. in your, editor Terminal run:
+If you experience any issues, in your editor Terminal run:
 ```
 Flutter Doctor
 ```
-Make sure Flutter has all libraries and packages installed.
+This command will show you that Flutter has all libraries and packages installed correctly. If there are any issues they command line will have a link to an article showing you how to fix the issue.
 
 ## Description
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
 
 ### Database
-I believe the app already utilizes Firebase, however, we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users,  jobs, etc. Plus we e already have a WordPress website setup where the campaigns will be created and pulled from to display on the App. I'm not too familiar with Flutter and Firebase development so if there are any limitations from using WordPress as CMS please let us know and we consider using firebase or a completely different option for the database.
+I believe the app already utilizes Firebase, however, we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users,  jobs, etc. Plus we e already have a WordPress website setup where the campaigns will be created and pulled from to display on the App. I'm not too familiar with Flutter and Firebase development so if there are any limitations from using WordPress as CMS please let us know and we consider using Firebase or a completely different option for the database.
 
 
 ## User Sign Up
