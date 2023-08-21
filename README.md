@@ -30,7 +30,9 @@ This command will show you if Flutter has all packages installed correctly. If t
 
 
 ## Project Scope
-This Mobile application currently works as a simple Running Tracker App. As of right now, users download it and they can track their running which saves it as an activity on their phone. We want to add a functionality where we can simply access all this data, and display it on something like an admin page where an administrator can view current runs and possibly even see people's runs in real-time.
+This Mobile application currently works as a simple Running Tracker App. As of right now, users download it and they can track their running which saves it as an activity on their phone.
+
+We want to add a functionality where we can simply access all this data, and display it on something like an admin page where an administrator can view current runs and possibly even see people's runs in real-time.
 
 
 <!--
@@ -77,6 +79,7 @@ These Jobs will be pulled from the database based on whatever service areas the 
 Of course, we will also need the ability to take on the job. So there should be a button where users can accept the job. Once they accept the job they will be shown the address pickup location for the Flyers and once they have the flyers. They should be able to view the job and have a button to start the distribution tracker. Once they complete it. All the tracking data should be saved to the database and we should get notified when the job is complete with a link to a report showing the route analtyics as well as the map with their route.   This brings us to the next thing, we would like to get notified whenever someone takes on a job.
 -->
 
+<!--
 ## Notifications
 Being notified when specific things happen is a feature we also need to implement. Mainly we want notifications for two things:
 -  When someone takes a job. (We need a notification that will take us to a view where we can see their profile details.)
@@ -85,7 +88,7 @@ Being notified when specific things happen is a feature we also need to implemen
 If possible we would like to send notifications to distributors whenever new jobs are available in their area as well as notify distributors and administrators when a distributor has left the selected area.
 
 In terms of how this notification is sent, we would like it to be via App notifications, but if it's easier to get it done with Email or SMS  that would be fine.
-
+-->
 
 
 
