@@ -46,6 +46,8 @@ In terms of where to show this data, we think it might be easiest to display thi
 
 :heavy_check_mark:  Ability to View details for each current run
 
+:heavy_check_mark:  Mobile Responsivness
+
 If possible we would also like to see this data in real time. For example, a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
 
 
