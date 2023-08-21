@@ -1,5 +1,5 @@
 # Flyertap Distributor
-
+## Description
 Flyertap Distributor is a Mobile Application where people can sign up to become distributors to start handing out flyers campaigns in a designated area. Whenever the distributors take on a job they will start a tracker to record their route for flyer distribution.
 
 
@@ -7,27 +7,33 @@ Flyertap Distributor is a Mobile Application where people can sign up to become 
 ### Required Versions
 -  Flutter SDK: 3.7.11
 -  Dart SDK: 2.19.6
-
+<br>
 Install Flutter 3.7.11 here: https://docs.flutter.dev/release/archive?tab=windows
 <br>
 Installation Instructions are found here: https://docs.flutter.dev/get-started/install
-
+<br>
 Once you have downloaded the appropriate Flutter Version go ahead and clone the project to your local.
 ```
 git clone https://github.com/PATH-TO/REPOSITORY](https://github.com/702Padmin/Flyertap-Distributor.git
 ```
-
 Once everything is installed run the App.
 ### Troubleshooting
 If you experience any issues, in your editor Terminal run the following command:
 ```
 Flutter Doctor
 ```
-This command will show you if Flutter has all libraries and packages installed correctly. If there are any issues the command line will show you an error with a link to an article showing you how to fix the issue.
+This command will show you if Flutter has all packages installed correctly. If there are any issues the command line will show you an error with a link to an article showing you how to fix the issue.
+
+<br><br>
+
+## Project Scope
+This Mobile application currently works as a simple Running Tracker App. As of right now, users download it and can track their running which saves it as an activity and they can refer to it.. We want to be able to access this data and have a super admin that can view all this data. 
 
 
-## Description
+<!--
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
+-->
+
 
 ### Database
 I believe the app already utilizes Firebase, however, we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users,  jobs, etc. Plus we e already have a WordPress website setup where the campaigns will be created and pulled from to display on the App. I'm not too familiar with Flutter and Firebase development so if there are any limitations from using WordPress as CMS please let us know and we consider using Firebase or a completely different option for the database.
@@ -50,7 +56,7 @@ This process should be a step-by-step form when signing up. The users should hav
 
 After that User Data will be saved to the backend and the user will be redirected to App Home Feed.-->
 
-
+<!--
 ## Jobs
 The App Home Feed shows all the jobs available to them. These jobs will show up on their feed depending on what service areas they choose. For example, if they choose las vegas they will only see las vegas jobs on the feed. From the feed, they should be able to view job details such as:
 -  Area
@@ -62,7 +68,7 @@ The App Home Feed shows all the jobs available to them. These jobs will show up 
 These Jobs will be pulled from the database based on whatever service areas the users have selected and will be created on a Web Application so you will not need to develop anything for create these jobs you simnply pull whatever jobs are available. I will create an API endpoint (with documentation) for requesting jobs so you can pull the data and display them on the app. 
 
 Of course, we will also need the ability to take on the job. So there should be a button where users can accept the job. Once they accept the job they will be shown the address pickup location for the Flyers and once they have the flyers. They should be able to view the job and have a button to start the distribution tracker. Once they complete it. All the tracking data should be saved to the database and we should get notified when the job is complete with a link to a report showing the route analtyics as well as the map with their route.   This brings us to the next thing, we would like to get notified whenever someone takes on a job.
-
+-->
 
 ## Notifications
 Being notified when specific things happen is a feature we also need to implement. Mainly we want notifications for two things:
