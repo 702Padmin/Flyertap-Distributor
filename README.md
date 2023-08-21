@@ -32,6 +32,7 @@ The App Home Feed shows all the jobs available to them. These jobs will show up 
 -  Pay
 -  Flyer Amount
 -  Description
+
 And of course, the ability to take on the job. We get a notification of know who has accepted the job.
 
 ## Notifications
