@@ -34,7 +34,7 @@ This App currently works as a simple Running Tracker. Users download the app and
 
 We want to add a functionality where we can simply access all this data from all users using the app, and display it on something like an admin page where an administrator can view all of the current runs.
 
-In terms of where to show this data, we think it might be easy to just display this data on a Web Page with a table showing all the current runs and when you click into you can see more information, such as previous runs, etc. (Example below)
+In terms of where to show this data, we think is might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. (Example below)
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
 
@@ -43,6 +43,9 @@ In terms of where to show this data, we think it might be easy to just display t
 :heavy_check_mark:  App must run on Android and IOS
 
 :heavy_check_mark:  Ability to View all Distributor Running Data
+
+:heavy_check_mark:  Ability to View details for each current run
+
 
 <!--
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
