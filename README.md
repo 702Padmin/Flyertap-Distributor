@@ -14,12 +14,12 @@ This Mobile application will utilize preexisting software from a Running Tracker
 ## User Sign Up
 To start using that App users must first sign up. So there needs to be a system for users to sign-up or log in to the app. The current App has a process at the start of the app when it is first launched, that requests some user information but it's not a fully setup login system. So we will start by modifying this process and requesting the following information:
 
--First Name
--Last Name
--Email Address
--Phone
--Birthdate
--Serving Areas (This is a list of the areas they wish to send flyers out in. For this portion, we may need to utilize google maps, as we want users to type in the city, and be able to either select either the city or the parts of the city. The example is viewable below)
+- First Name
+- Last Name
+- Email Address
+- Phone
+- Birthdate
+- Serving Areas (This is a list of the areas they wish to send flyers out in. For this portion, we may need to utilize google maps, as we want users to type in the city, and be able to either select either the city or the parts of the city. The example is viewable below)
 
 After that Data will be saved to the backend and users will be redirected to App Home Feed.
 
