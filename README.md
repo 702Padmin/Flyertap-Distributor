@@ -46,6 +46,8 @@ In terms of where to show this data, we think it might be easiest to display thi
 
 :heavy_check_mark:  Ability to View details for each current run
 
+If possible we would also like to see this data in real time. For example, a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
+
 
 <!--
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
