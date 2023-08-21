@@ -1,11 +1,12 @@
 # Flyertap Distributor
-### Required Versions
-Flutter SDK: 3.7.11
-Dart SDK: 2.19.6
 
+## Installation
+### Required Versions
+-  Flutter SDK: 3.7.11
+-  Dart SDK: 2.19.6
 Install Flutter here: https://docs.flutter.dev/release/archive?tab=windows
 
-## Description
+
 Flyertap Distributor is a Mobile Application where people can sign up to become distributors and take on jobs to start handing out flyers campaigns in a designated area. Whenever the distributors take on a job they will start a tracker to record their route for flyer distribution.
 
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
