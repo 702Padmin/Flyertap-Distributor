@@ -1,5 +1,4 @@
 # Flyertap Distributor
-## Description
 Flyertap Distributor is a Mobile Application where people can sign up to become distributors to start handing out flyers campaigns in a designated area. Whenever the distributors take on a job they will start a tracker to record their route for flyer distribution.
 
 
