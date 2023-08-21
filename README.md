@@ -34,7 +34,7 @@ This App currently works as a simple Running Tracker. Users download the app and
 
 We want to add a functionality where we can simply access all this data from all users using the app, and display it on something like an admin page where an administrator can view all of the current runs.
 
-In terms of where to show this data, we think is might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. (Example below)
+In terms of where to show this data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. But if you as the developer think it will be easier to implement this feature on the app then let's go with that instead. (Example below)
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
 
