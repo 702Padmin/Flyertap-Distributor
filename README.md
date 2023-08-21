@@ -11,12 +11,7 @@ Flyertap Distributor is a Mobile Application where people can sign up to become 
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
 
 ### Database
-This mobile application will be developed using Flutter using a MySQL Database with WordPress as headless cms.
-The main Objects that will be used on the app are: 
-
-Users (Distributors)
-Campaigns (Flyer Campaigns)
-Routes (We want to be able to save the route data to be able to create a report.)
+I believe the app already utilizes Firebase, however, we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users, jobs, etc.
 
 
 ## User Sign Up
