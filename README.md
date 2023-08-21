@@ -38,6 +38,7 @@ In terms of where to show this data, I was thinking perhaps of a Simple Web Page
 
 ### Items that must be completed:
 :heavy_check_mark: App must run on Android and IOS
+:heavy_check_mark: Ability to View all Distributor Running Data
 
 <!--
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
