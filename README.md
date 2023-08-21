@@ -36,13 +36,17 @@ The App Home Feed shows all the jobs available to them. These jobs will show up 
 
 These Jobs will be pulled from the database based on whatever service areas the users have selected. I will create an API endpoint (with documentation) for requesting jobs so you can pull the data and display them on the app. 
 
-Of course, we will also need the ability to take on the job. So there should be a button where users can accept the job. Once they accept the job they will be shown the address pickup location for the Flyers and once they have the flyers. They should be able to view the job and have a button to  start the distribution tracker.  This brings us to the next thing, we would like to get notified whenever someone takes on a job.
+Of course, we will also need the ability to take on the job. So there should be a button where users can accept the job. Once they accept the job they will be shown the address pickup location for the Flyers and once they have the flyers. They should be able to view the job and have a button to start the distribution tracker. Once they complete it. All the tracking data should be saved to the database and we should get notified when the job is complete with a link to a report showing the route analtyics as well as the map with their route.   This brings us to the next thing, we would like to get notified whenever someone takes on a job.
+
 
 ## Notifications
 Being notified when specific things happen is a feature we also need to implement. Mainly we want notifications for two things:
 -  When someone takes a job. (We need a notification that will take us to a view where we can see their profile details.)
--  Get notified when the distributor has left the selected area. (We need a notification sent out to both the distributor and admin.)
-If we can send out an email notifying us when these actions occur that would be great.
+-  When someone completes a job.
+ 
+If possible we would like to send notifications to distributors whenever new jobs are available in their area as well as notify distributors and administrators when a distributor has left the selected area.
+
+In terms of how this notification is sent, we would like it to be via App notifications, but if it's easier to get it done with Email or SMS  that would be fine.
 
 
 ## Database
