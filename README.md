@@ -37,7 +37,7 @@ We want to add a functionality where we can simply access all this data from all
 
 In terms of where to show this data, I was thinking perhaps of a Simple Web Page with a table showing all the current runs.
 
-- [x] (for checked checkbox)
+- :heavy_check_mark: | (for checked checkbox)
 
 <!--
 This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
