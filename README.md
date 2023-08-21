@@ -23,7 +23,7 @@ To start using that App users must first sign up. So there needs to be a system 
 
 ![image](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/e560cb09-3bd7-4c16-9582-50957815907c)
 
-After that Data will be saved to the backend and users will be redirected to App Home Feed.
+After that User Data will be saved to the backend and the user will be redirected to App Home Feed.
 
 
 ## Jobs
@@ -31,6 +31,15 @@ The App Home Feed shows all the jobs available to them. These jobs will show up 
 -  Area
 -  Pay
 -  Flyer Amount
+-  Description
+And of course, the ability to take on the job. We get a notification of know who has accepted the job.
+
+## Notifications
+Being notified when specific things happen is a feature we also need to implement. Mainly we want notifications for two things:
+-  When someone takes a job. (We need a notification that will take us to a view where we can see their profile details.)
+-  Get notified when the distributor has left the selected area. (We need a notification sent out to both the distributor and admin.)
+If we can send out an email notifying us when these actions occur that would be great.
+
 
 ## Database
 This mobile application will be developed using Flutter using a MySQL Database with WordPress as headless cms.
