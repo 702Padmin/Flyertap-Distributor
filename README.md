@@ -31,10 +31,9 @@ This command will show you if Flutter has all packages installed correctly. If t
 
 
 ## Project Scope
-This Mobile App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
+This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
 
-We want to add a functionality where we can simply access all this data, and display it on something like an admin page where an administrator can view all of the current runs.
-
+We want to add a functionality where we can simply access all this data from all users using the app, and display it on something like an admin page where an administrator can view all of the current runs.
 
 In terms of where to show this data, I was thinking perhaps of a Simple Web Page with a table showing all the current runs.
 
