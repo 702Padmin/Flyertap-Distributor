@@ -10,5 +10,10 @@ Mobile Application for Tracking Flyer Distributions. The main functionality will
 
 
 ## Database
-This mobile application will be developed using Flutter using a MySQL Database with  WordPress as headless cms.
+This mobile application will be developed using Flutter using a MySQL Database with WordPress as headless cms.
+The main Objects that will be used on the app are: 
+
+Users (Distributors)
+Campaigns (Flyer Campaigns)
+Routes (We want to be able to save the route data to be able to create a report.)
 
