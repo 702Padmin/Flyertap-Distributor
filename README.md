@@ -12,7 +12,7 @@ Install Flutter 3.7.11 [here](https://docs.flutter.dev/release/archive?tab=windo
 
 Installation Instructions are found [here](https://docs.flutter.dev/get-started/install)
 
-Once you have downloaded the correct Flutter Version, clone the project to your system.
+Once you have downloaded the correct Flutter Version, clone the project onto your system.
 ```
 git clone https://github.com/PATH-TO/REPOSITORY](https://github.com/702Padmin/Flyertap-Distributor.git
 ```
