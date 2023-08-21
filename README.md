@@ -31,7 +31,7 @@ This command will show you if Flutter has all packages installed correctly. If t
 
 
 ## Project Scope
-This Mobile application currently works as a simple Running Tracker App. As of right now, users download it and they can track their running which saves it as an activity on their phone.
+This Mobile App currently works as a simple Running Tracker App. As of right now, users download it and they can track their running which saves it as an activity on their phone.
 
 We want to add a functionality where we can simply access all this data, and display it on something like an admin page where an administrator can view current runs.
 
