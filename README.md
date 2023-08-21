@@ -16,8 +16,9 @@ Once you have downloaded the appropriate Flutter Version go ahead and clone the 
 ```
 git clone https://github.com/PATH-TO/REPOSITORY](https://github.com/702Padmin/Flyertap-Distributor.git
 ```
-Once everything is installed run the App.
 
+Once everything is installed run the App.
+### Troubleshooting
 If you experience any issues, in your editor Terminal run the following command:
 ```
 Flutter Doctor
