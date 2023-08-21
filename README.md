@@ -8,9 +8,21 @@ Install Flutter here: https://docs.flutter.dev/release/archive?tab=windows
 ## Description
 Flyertap Distributor is a Mobile Application where people can sign up to become distributors and take on jobs to start handing out flyers campaigns in a designated area. Whenever the distributors take on a job they will start a tracker to record their route for flyer distribution.
 
-This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking and water intake tracking. We will be stripping down the app by removing some of these existing features and adding new ones to align with the goals of the app we wish to create. 
+This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
 
-The main functionality will be that distributors (users) are able to sign up for the app and choose the specific areas they want to deliver to. We want to allow users to be able to be assigned to a flyer campaign start the tracking functionality and actually start delivering the flyers. After that is complete we want to be able to save the route data into a database where we can use it to create reports.
+
+## User Sign Up
+To start using that App users must first sign up. So there needs to be a system for users to sign-up or log in to the app. The current App has a process at the start of the app when it is first launched, that requests some user information but it's not a fully setup login system. So we will start by modifying this process and requesting the following information:
+
+-First Name
+-Last Name
+-Email Address
+-Phone
+-Birthdate
+-Serving Areas (This is a list of the areas they wish to send flyers out in. For this portion, we may need to utilize google maps, as we want users to type in the city, and be able to either select either the city or the parts of the city. The example is viewable below)
+
+After that Data will be saved to the backend and users will be redirected to App Home Feed.
+
 
 
 ## Database
