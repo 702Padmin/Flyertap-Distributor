@@ -21,6 +21,8 @@ To start using that App users must first sign up. So there needs to be a system 
 -  Birthdate
 -  Serving Areas (This is a list of the areas they wish to send flyers out in. For this portion, we may need to utilize google maps, as we want users to type in the city, and be able to either select either the city or the parts of the city. The example is viewable below)
 
+![image](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/e560cb09-3bd7-4c16-9582-50957815907c)
+
 After that Data will be saved to the backend and users will be redirected to App Home Feed.
 
 
