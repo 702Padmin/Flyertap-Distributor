@@ -57,7 +57,7 @@ This Mobile application will utilize preexisting software from a Running Tracker
 
 
 ### Database
-I believe the App currently utilizes Firebase, so that is most likely where all the running data is being stored.
+I believe the App currently utilizes mySQlite, so that is most likely where all the running data is being stored.
 
 <!--
  we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users,  jobs, etc. Plus we e already have a WordPress website setup where the campaigns will be created and pulled from to display on the App. I'm not too familiar with Flutter and Firebase development so if there are any limitations from using WordPress as CMS please let us know and we consider using Firebase or a completely different option for the database.
