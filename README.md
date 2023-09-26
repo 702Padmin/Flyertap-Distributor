@@ -37,7 +37,7 @@ We want to build an Admin Side Website Application  that is able to access the r
 and display it, so we the admin can view all the running data from people using the Run Tracker Mobile App.
 
 
-In terms of where to show this data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run.(Example of a possible design and layout below)
+In terms of how we want to render the data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run.(Example of a possible design and layout below)
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
 
