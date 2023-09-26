@@ -27,7 +27,8 @@ Flutter Doctor
 This command will show you if Flutter has all packages installed correctly. If there are any issues the command line will show you an error with a link to an article showing you how to fix the issue.
 -->
 
-
+### Database
+I believe the App currently utilizes SQLite , so that is most likely where all the running data is being stored.
 
 ## Project Scope
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
@@ -61,8 +62,7 @@ This Mobile application will utilize preexisting software from a Running Tracker
 -->
 
 
-### Database
-I believe the App currently utilizes SQLite , so that is most likely where all the running data is being stored.
+
 
 <!--
  we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users,  jobs, etc. Plus we e already have a WordPress website setup where the campaigns will be created and pulled from to display on the App. I'm not too familiar with Flutter and Firebase development so if there are any limitations from using WordPress as CMS please let us know and we consider using Firebase or a completely different option for the database.
