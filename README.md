@@ -32,7 +32,10 @@ This command will show you if Flutter has all packages installed correctly. If t
 ## Project Scope
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
 
-We want to add a functionality where we can simply access all this data from all users using the app, and display it on something like an admin page where an administrator can view all of the current runs.
+
+We want to build an Admin Side Website Application  that is able to access the run tracking and map data from the Run Tracker Mobile App,
+and display it, so we the admin can view all the running data from people using the Run Tracker Mobile App .
+
 
 In terms of where to show this data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. But if you as the developer think it will be easier to implement this feature on the app then let's go with that instead. (Example below)
 
