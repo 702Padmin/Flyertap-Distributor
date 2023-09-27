@@ -111,7 +111,7 @@ Once both the Web App and Mobile App are connected to the same database we shoul
 
 :heavy_check_mark:  The **Web App** should be able to access all user data including the running & map data.
 
-:heavy_check_mark:  UI/UX Design for **Web App**, we need to be able to query all the data recorded on the mobile app and display it on the admin Web app.
+:heavy_check_mark:  UI/UX Design for **Web App**, we need to be able to query all recorded on the mobile app to display.
 
 :heavy_check_mark:  Mobile Responsiveness for the **Web App**
 
