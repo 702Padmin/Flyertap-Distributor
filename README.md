@@ -39,7 +39,7 @@ Built with:
 -  SQLite Database
 <br>
 
-- Flyertap Admin Web App (This can found [here](https://adm.flyertap.com/login))
+- Flyertap Admin Web App (This can found [here](https://adm.flyertap.com/login){:target="_blank" rel="noopener"})
 
 Built with:
 -  Laravel
