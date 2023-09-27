@@ -90,7 +90,7 @@ Once the user stops the timer and completes the run we want users to be prompted
 - Additional Notes
 - A Final Picture (The user must upload a final picture. This will be so we can verify they completed the flyer distribution.)
 
-All the pictures they upload must be saved to the database and attached to their corresponding run activity.
+All the pictures they upload, as well as questions they answered, must be saved to the database and attached to their corresponding run activity.
 
 <!--
 ### Admin Web App
@@ -100,17 +100,17 @@ Once both the Web App and Mobile App are connected to the same database we shoul
 -->
 
 ### Items that must be completed:
-:heavy_check_mark:  **Mobile App** must have a fully fleshed out Register/Login System
+:heavy_check_mark:  **Mobile App** must have a fully fleshed out Register/Login System.
 
 :heavy_check_mark:  **Mobile App** must allow users to take pictures during their runs.
 
-:heavy_check_mark:  **Mobile App** must allow users to fill out the form at the end of their. 
+:heavy_check_mark:  **Mobile App** must allow users to fill out a form at the end of their run. 
 
 :heavy_check_mark:  The **Web App** and **Mobile App** must push their data to the same database (Preferably MySQL).
 
 :heavy_check_mark:  The **Web App** should be able to access all user data including the running & map data.
 
-:heavy_check_mark:  UI/UX Design for **Web App** showing all the data in nice presentable format
+:heavy_check_mark:  UI/UX Design for **Web App**, we need to be able to query all the data recorded on the mobile app and display it on the admin Web app.
 
 :heavy_check_mark:  Mobile Responsiveness for the **Web App**
 
@@ -119,7 +119,7 @@ Once both the Web App and Mobile App are connected to the same database we shoul
 :heavy_check_mark:  The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
 
 
-### Bonus Feature (optional)
+### Bonus Features (optional)
 If it is possible we would also like to see users running data in real time. For example, if a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
 
 
