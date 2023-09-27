@@ -31,8 +31,10 @@ For any other issues please infer [Flutter Documentation](https://docs.flutter.d
 
 ## Project Scope
 This Project consists of 2 Apps
-- Flyertap Distributor Mobile App (This repository is for the Mobile App)
-  
+
+Flyertap Distributor Mobile App (This repository is for the Mobile App)
+This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
+
 Built with:
 -  Flutter SDK: 3.7.11 -channel stable
 -  Dart SDK: 2.19.6
@@ -46,7 +48,7 @@ Built with:
 -  Bootstrap
 -  MYSQL Database
 
-This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
+
 
 
 We want to build an  **Admin Side Website Application**  that is able to access the run tracking and map data from the **Run Tracker Mobile App**,
