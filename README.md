@@ -28,7 +28,7 @@ This command will show you if Flutter has all packages installed correctly. If t
 -->
 
 ### Database
-SQLite
+- SQLite
 
 ## Project Scope
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
