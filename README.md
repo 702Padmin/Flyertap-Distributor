@@ -76,8 +76,7 @@ the following will be required fields for registration (this data must be saved 
 -  If yes, please explain
 -  I would like to be considered for other gig work 
 
-
-### Mobile App Registration/Login
+### Mobile App Login
 For the login process, we want to do a simple login that requires the following to log in:
 - registered email
 - verification code that is sent to their email
