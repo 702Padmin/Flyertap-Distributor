@@ -82,7 +82,7 @@ For the login process, we want to do a simple login that requires the following 
 - verification code that is sent to their email
 - No password required 
 
-### Mobile App Run tracking
+### Mobile App Run tracking Photo Feature
 Part of the Mobile App that will require modification will be the runner tracker process. When you start a run, we want to add the ability for users to take photos during their runs, we need this feature to verify people are doing their job during their runs.
 
 Once the user stops the timer and completes the run we want users to be prompted to fill out a form with the following questions:
