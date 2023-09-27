@@ -30,6 +30,10 @@ For any other issues please infer [Flutter Documentation](https://docs.flutter.d
 - SQLite
 
 ## Project Scope
+This Project consists of 2 Apps
+- Flyertap Distributor Mobile App (This repository is for the Mobile App)
+- Flyertap Admin Web App 
+
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
 
 
