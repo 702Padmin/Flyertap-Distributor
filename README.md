@@ -34,7 +34,7 @@ For any other issues please infer [Flutter Documentation](https://docs.flutter.d
 ## Project Scope
 This Project consists of 2 Apps
 
-###Flyertap Distributor Mobile App
+### Flyertap Distributor Mobile App
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone. (This Github repository is for the Mobile App)
 
 Built with:
@@ -43,7 +43,7 @@ Built with:
 -  SQLite Database
 <br>
 
-###Flyertap Admin Web App (This can be found [here](https://adm.flyertap.com/login))
+### Flyertap Admin Web App (This can be found [here](https://adm.flyertap.com/login))
 
 Built with:
 -  Laravel
