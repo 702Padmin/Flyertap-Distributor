@@ -76,27 +76,51 @@ the following will be required fields for registration (this data must be saved 
 -  If yes, please explain
 -  I would like to be considered for other gig work 
 
-For the login process, we want to do a simple login that requires:
+For the login process, we want to do a simple login that requires the following to log in:
 - registered email
 - verification code that is sent to their email
 - No password required 
 
+### Mobile App Run tracking
+Part of the Mobile App that will require modification will be the runner tracker process. When you start a run, we want to add the ability for users to take photos during their runs, we need this feature to verify people are doing their job during their runs.
 
+Once the user stops the timer and completes the run we want users to be prompted to fill out a form with the following questions:
+- What Campaign did you complete?
+- Which Zipcode did you do?
+- Additional Notes
+- A Final Picture (The user must upload a final picture. This will be so we can verify they completed the flyer distribution.)
+
+All the pictures they upload must be saved to the database and attached to their corresponding run activity.
+
+<!--
 ### Admin Web App
-In terms of how we want to render the data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. (Example of a possible design and layout below)
+Once both the Web App and Mobile App are connected to the same database we should be able to fetch all the Users and 
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
-
+-->
 
 ### Items that must be completed:
-:heavy_check_mark:  App must run on Android and IOS
-:heavy_check_mark:  Ability to View all Distributor Running Data
-:heavy_check_mark:  Ability to View details for each current run
-:heavy_check_mark:  UI/UX Design for Admin Dashboard
-:heavy_check_mark:  Mobile Responsiveness
+:heavy_check_mark:  **Mobile App** must have a fully fleshed out Register/Login System
 
-If possible we would also like to see this data in real time. For example, if a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
+:heavy_check_mark:  **Mobile App** must allow users to take pictures during their runs.
 
+:heavy_check_mark:  **Mobile App** must allow users to fill out the form at the end of their. 
+
+:heavy_check_mark:  The **Web App** and **Mobile App** must push their data to the same database (Preferably MySQL).
+
+:heavy_check_mark:  The **Web App** should be able to access all user data including the running & map data.
+
+:heavy_check_mark:  UI/UX Design for **Web App** showing all the data in nice presentable format
+
+:heavy_check_mark:  Mobile Responsiveness for the **Web App**
+
+:heavy_check_mark:  **Mobile App** must run on Android and IOS
+
+:heavy_check_mark:  The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
+
+
+### Bonus Feature (optional)
+If it is possible we would also like to see users running data in real time. For example, if a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
 
 
 
