@@ -5,7 +5,7 @@ Flyertap Distributor is a Mobile Application where people can sign up to become 
 
 ## Installation
 ### Required Versions
--  Flutter SDK: 3.7.11
+-  Flutter SDK: 3.7.11 -channel stable
 -  Dart SDK: 2.19.6
 
 Install Flutter 3.7.11 [here](https://docs.flutter.dev/release/archive?tab=windows)
