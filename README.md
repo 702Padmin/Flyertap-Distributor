@@ -90,35 +90,15 @@ In terms of how we want to render the data, we think it might be easiest to disp
 
 ### Items that must be completed:
 :heavy_check_mark:  App must run on Android and IOS
-
 :heavy_check_mark:  Ability to View all Distributor Running Data
-
 :heavy_check_mark:  Ability to View details for each current run
-
 :heavy_check_mark:  UI/UX Design for Admin Dashboard
+:heavy_check_mark:  Mobile Responsiveness
 
-:heavy_check_mark:  Mobile Responsivness
-
-If possible we would also like to see this data in real time. For example, a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
+If possible we would also like to see this data in real time. For example, if a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
 
 
-<!--
-## User Sign Up
-To start using the App users must first sign up. So there needs to be a system for users to sign-up or log in to the app. The current App has a process at the start of the app when it is first launched, that requests some user information but it's not a fully setup login system. So we will start by modifying this process and requesting the following information:
 
--  First Name
--  Last Name
--  Email Address
--  Phone
--  Birthdate
--  Serving Areas
-(Serving Areas is the location, we want users to type in the city, and be able to either select either the city or specific parts of the city.)
-
-This process should be a step-by-step form when signing up. The users should have the ability to log in or log out to the website if already registered. And we would like a simple account page with a simple form to update the user information.
-
-![image](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/e560cb09-3bd7-4c16-9582-50957815907c)
-
-After that User Data will be saved to the backend and the user will be redirected to App Home Feed.-->
 
 <!--
 ## Jobs
