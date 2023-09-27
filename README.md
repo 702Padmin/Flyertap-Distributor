@@ -32,16 +32,18 @@ For any other issues please infer [Flutter Documentation](https://docs.flutter.d
 ## Project Scope
 This Project consists of 2 Apps
 - Flyertap Distributor Mobile App (This repository is for the Mobile App)
-      Built with:
-      -  Flutter SDK: 3.7.11 -channel stable
-      -  Dart SDK: 2.19.6
-      -  SQLite Database
+  
+Built with:
+-  Flutter SDK: 3.7.11 -channel stable
+-  Dart SDK: 2.19.6
+-  SQLite Database
+
 
 - Flyertap Admin Web App (This can found [here](https://adm.flyertap.com/login))
-      Built with:
-      -  Laravel
-      -  Bootstrap
-      -  MYSQL Database
+Built with:
+-  Laravel
+-  Bootstrap
+-  MYSQL Database
 
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone.
 
