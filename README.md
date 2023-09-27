@@ -50,10 +50,12 @@ Built with:
 
 
 ## Project Tasks
+
+### Database Setup
 We want to build an  **Admin Web App**  that is able to access the run tracking and map data from the **Mobile App**
 and display it on the **Admin Web App**. We just need to set up both the **Mobile App** and **Web App** to run on the SAME database. We want to use the current MySQL Database the Web App is using to accomplish this, but we are also open to recommendations.
 
-## Mobile App Registration/Login
+### Mobile App Registration/Login
 We want a Login/Sign Up System  for the **Mobile App**.
 
 the following will be required fields for registration (this data must be saved to the database): 
@@ -74,10 +76,13 @@ the following will be required fields for registration (this data must be saved 
 -  If yes, please explain
 -  I would like to be considered for other gig work 
 
-For the login process, we want to do a simple login that requires the registered email and a verification code that is sent to their email to be able to log in. (No password required) 
+For the login process, we want to do a simple login that requires:
+- registered email
+- verification code that is sent to their email
+- No password required 
 
 
-
+### Admin Web App
 In terms of how we want to render the data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. (Example of a possible design and layout below)
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
