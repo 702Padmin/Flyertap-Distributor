@@ -32,9 +32,9 @@ For any other issues please infer [Flutter Documentation](https://docs.flutter.d
 - SQLite
 
 ## Project Scope
-This Project consists of 2 Apps
+This Project consists of 2 Applications
 
-### Flyertap Distributor Mobile App
+### 1.) Flyertap Distributor Mobile App
 This App currently works as a simple Running Tracker. Users download the app and they can track their runs which saves them as "activities" on their phone. (This Github repository is for the Mobile App)
 
 Built with:
@@ -43,7 +43,8 @@ Built with:
 -  SQLite Database
 <br>
 
-### Flyertap Admin Web App (This can be found [here](https://adm.flyertap.com/login))
+### 2.) Flyertap Admin Web App
+As of right now, the Web Application is just a template of a CRM.
 
 Built with:
 -  Laravel
@@ -51,13 +52,15 @@ Built with:
 -  MYSQL Database
 
 
+## Tasks
+We want to build an  **Admin Web App**  that is able to access the run tracking and map data from the **Mobile App**
+and display it on the **Admin Web App**. We just need to set up both the **Mobile App** and **Web App** to run on the SAME database. We want to use the current MySQL Database the Web App is using to accomplish this, but we are also open to recommendations.
+
+We need to modify the **Mobile App** to have a Sign-Up and login system.
 
 
-We want to build an  **Admin Side Website Application**  that is able to access the run tracking and map data from the **Run Tracker Mobile App**,
-and display it, so we the admin can view all the running data from people using the **Run Tracker Mobile App.**
 
-
-In terms of how we want to render the data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run.(Example of a possible design and layout below)
+In terms of how we want to render the data, we think it might be easiest to display this data on a Web Page with a table showing all the current runs and when you click on a row you can see more information about their run. (Example of a possible design and layout below)
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
 
@@ -75,17 +78,6 @@ In terms of how we want to render the data, we think it might be easiest to disp
 
 If possible we would also like to see this data in real time. For example, a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
 
-
-<!--
-This Mobile application will utilize preexisting software from a Running Tracker App. As of right now, the running tracker app has the ability to track users running activities, as well as a couple of other features such as step tracking, user sign-up system, and water intake tracking. We are mainly interested in utilizing the route tracking feature from the app so will be removing some of these existing features that are not needed as well as adding new ones to align with the goals of the app we wish to create.
--->
-
-
-
-
-<!--
- we would like to utilize WordPress as headless CMS for the backend of the app. As we want an easy way to manage users,  jobs, etc. Plus we e already have a WordPress website setup where the campaigns will be created and pulled from to display on the App. I'm not too familiar with Flutter and Firebase development so if there are any limitations from using WordPress as CMS please let us know and we consider using Firebase or a completely different option for the database.
--->
 
 <!--
 ## User Sign Up
