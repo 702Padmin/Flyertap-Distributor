@@ -52,8 +52,8 @@ Built with:
 ## Project Tasks
 
 ### Database Setup
-We want to build an  **Admin Web App**  that is able to access the run tracking and map data from the **Mobile App**
-and display it on the **Admin Web App**. We just need to set up both the **Mobile App** and **Web App** to run on the SAME database. We want to use the current MySQL Database the Web App is using to accomplish this, but we are also open to recommendations.
+We want to build a **Web App**  that is able to access the run tracking and map data from the **Mobile App**
+and display it on the **Web App**. We just need to set up both the **Mobile App** and **Web App** to run on the SAME database. We want to use the current MySQL Database the **Web App** is using to accomplish this, but we are also open to recommendations.
 
 ### Mobile App Registration/Login
 We want a Login/Sign Up System  for the **Mobile App**.
