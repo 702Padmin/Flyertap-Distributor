@@ -14,7 +14,7 @@ Installation Instructions are found [here](https://docs.flutter.dev/get-started/
 
 Once you have downloaded the correct Flutter Version, clone the project onto your system.
 ```
-git clone https://github.com/PATH-TO/REPOSITORY](https://github.com/702Padmin/Flyertap-Distributor.git
+git clone https://github.com/702Padmin/Flyertap-Distributor.git
 ```
 Once everything is installed run the App.
 
