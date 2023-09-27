@@ -26,7 +26,7 @@ Flutter Doctor
 This command will show you if Flutter has all packages installed correctly. If there are any issues the command line will show you an error with a link to an article showing you how to fix the issue.
 For any other issues please infer [Flutter Documentation](https://docs.flutter.dev/get-started/install)
 
-<br><br><br>
+<br><br>
 
 ## Project Scope
 This Project consists of 2 Applications
