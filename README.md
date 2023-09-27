@@ -1,5 +1,5 @@
 # Flyertap Distributor
-Flyertap Distributor is a Mobile Application where people can sign up to become distributors to start handing out flyers campaigns in a designated area. Whenever the distributors take on a job they will start a tracker to record their route for flyer distribution.
+Flyertap Distributor is a Mobile Application where people can sign up to become distributors to start handing out flyer campaigns in a designated area. Whenever the distributors take on a job they will start a tracker to record their route for flyer distribution.
 
 
 
@@ -8,9 +8,9 @@ Flyertap Distributor is a Mobile Application where people can sign up to become 
 -  Flutter SDK: 3.7.11 -channel stable
 -  Dart SDK: 2.19.6
 
-Install Flutter 3.7.11 [here](https://docs.flutter.dev/release/archive?tab=windows)
+Install Flutter 3.7.11 [(here)](https://docs.flutter.dev/release/archive?tab=windows)
 
-Installation Instructions are found [here](https://docs.flutter.dev/get-started/install)
+Installation Instructions are found [(here)](https://docs.flutter.dev/get-started/install)
 
 Once you have downloaded the correct Flutter Version, clone the project onto your system.
 ```
