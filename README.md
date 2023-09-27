@@ -55,7 +55,7 @@ Built with:
 We want to build a **Web App**  that is able to access the run tracking and map data from the **Mobile App**
 and display it on the **Web App**. We just need to set up both the **Mobile App** and **Web App** to run on the SAME database. We want to use the current MySQL Database the **Web App** is using to accomplish this, but we are also open to recommendations.
 
-### Mobile App Registration/Login
+### Mobile App Registration
 We want a Login/Sign Up System  for the **Mobile App**.
 
 the following will be required fields for registration (this data must be saved to the database): 
@@ -76,6 +76,8 @@ the following will be required fields for registration (this data must be saved 
 -  If yes, please explain
 -  I would like to be considered for other gig work 
 
+
+### Mobile App Registration/Login
 For the login process, we want to do a simple login that requires the following to log in:
 - registered email
 - verification code that is sent to their email
