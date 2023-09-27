@@ -64,7 +64,15 @@ the following will be required fields for registration (this data must be saved 
 -  Birthdate
 -  Location (Street Address, City, State, Zip) 
 -  Driver's License or ID Number
+-  Picture of Driver's License
 -  Profile Picture
+-  What days are you available? (Any, Options: Mon - Sunday)
+-  What amount of work are you looking for? (Full-time, Part-time, Gig Work)
+-  When are you available to start work?
+-  Add a short description of yourself
+-  Have you been convicted of or pleaded no contest to a felony?
+-  If yes, please explain
+-  I would like to be considered for other gig work 
 
 For the login process, we want to do a simple login that requires the registered email and a verification code that is sent to their email to be able to log in. (No password required) 
 
