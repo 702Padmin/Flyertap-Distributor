@@ -39,8 +39,8 @@ Built with:
 -  SQLite Database
 <br>
 
-- Flyertap Admin Web App (This can found [here](https://adm.flyertap.com/login))
-<br>Built with:
+- Flyertap Admin Web App (This can found [here](https://adm.flyertap.com/login))<br>
+Built with:
 -  Laravel
 -  Bootstrap
 -  MYSQL Database
