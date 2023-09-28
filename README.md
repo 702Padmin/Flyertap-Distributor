@@ -93,9 +93,14 @@ Once the user stops the timer and completes the run we want users to be prompted
 
 All the pictures they upload, as well as questions they answered, must be saved to the database and attached to their corresponding run activity.
 
-<!--
+
 ### Admin Web App
-Once both the Web App and Mobile App are connected to the same database we should be able to fetch all the Users and 
+Once both the Web App and Mobile App are connected to the same database. We want to create a simple UI for viewing all users and their running data on the **Admin App**. As I mentioned before we have a Web App that's set up and as of right now is only a template with the only functionality being a login.
+
+The Pages will consist of:
+- Dashboard Page (overview of all users and current runs)
+- Users Page (Ability to View Users in a data format as well as the option to edit their information. We should also have a single user page where, we can click to view all thier info and thier runs.)
+- Tasks Page (Ability to view all user runs. Which will include data such as the map and path taken, date, the user making the run, a title for the run, etc. We should also have a single task page where we can click to view all of its info.)
 
 ![example](https://github.com/702Padmin/Flyertap-Distributor/assets/57960180/ada4f1f5-0a70-4abc-b770-c1b1bba3a3ab)
 -->
