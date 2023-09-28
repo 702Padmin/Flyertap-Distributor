@@ -77,7 +77,7 @@ the following will be required fields for registration (this data must be saved 
 -  I would like to be considered for other gig work 
 
 ### Mobile App Login
-For the login process, we want to do a simple login that requires the following to log in:
+For the login process, we want to do a simple login that requires the following to log in credentials:
 - registered email
 - verification code that is sent to their email
 - No password required 
@@ -87,9 +87,9 @@ Part of the Mobile App that will require modification will be the runner tracker
 
 Once the user stops the timer and completes the run we want users to be prompted to fill out a form with the following questions:
 - What Campaign did you complete?
-- Which Zipcode did you do?
-- Additional Notes
-- A Final Picture (The user must upload a final picture. This will be so we can verify they completed the flyer distribution.)
+- Which Zipcode did you distribute for?
+- Additional Notes (for example any issues experienced)
+- A Final Picture (Optional. This will be so we can verify they completed the flyer distribution.)
 
 All the pictures they upload, as well as questions they answered, must be saved to the database and attached to their corresponding run activity.
 
@@ -134,7 +134,7 @@ The App Home Feed shows all the jobs available to them. These jobs will show up 
 -  Description
 -  Flyer Pickup location
 
-These Jobs will be pulled from the database based on whatever service areas the users have selected and will be created on a Web Application so you will not need to develop anything for create these jobs you simnply pull whatever jobs are available. I will create an API endpoint (with documentation) for requesting jobs so you can pull the data and display them on the app. 
+These Jobs will be pulled from the database based on whatever service areas the users have selected and will be created on a Web Application so you will not need to develop anything for create these jobs you simply pull whatever jobs are available. I will create an API endpoint (with documentation) for requesting jobs so you can pull the data and display them on the app. 
 
 Of course, we will also need the ability to take on the job. So there should be a button where users can accept the job. Once they accept the job they will be shown the address pickup location for the Flyers and once they have the flyers. They should be able to view the job and have a button to start the distribution tracker. Once they complete it. All the tracking data should be saved to the database and we should get notified when the job is complete with a link to a report showing the route analtyics as well as the map with their route.   This brings us to the next thing, we would like to get notified whenever someone takes on a job.
 -->
