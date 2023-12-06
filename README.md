@@ -124,6 +124,8 @@ The Pages will consist of:
 
 :heavy_check_mark:  The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
 
+:heavy_check_mark:  Proper Code Documentation
+
 
 ### Bonus Features (optional)
 If it is possible we would also like to see users running data in real time. For example, if a user is currently running at this point in time, we would be able to see their current location on the map as well as the route they have taken.
