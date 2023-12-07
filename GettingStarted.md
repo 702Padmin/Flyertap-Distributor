@@ -9,9 +9,9 @@ Complete the tasks below to complete the 1st Milestone. (Check off completed ite
 - [ ] Change **Mobile App** database from SQLite to MySQL
 
 (Login to Cpanel using the credentials below to get access to the database.)<br>
-Username: admflyertap <br>
-Passowrd: RRR(jvf+y7OZ  <br>
-Login URL: https://adm.flyertap.com/cpanel <br>
+**Username:** admflyertap <br>
+**Passowrd:** RRR(jvf+y7OZ  <br>
+**Login URL:** https://adm.flyertap.com/cpanel <br>
 
 - Log in and go to phpMyAdmin and use the admflyertap_db database to store all Mobile App data. Make whatever changes are needed to complete the task.
 - This database is a MySQL Laravel-based database, if any modification needs to be made to the database, you can also use the terminal found on the Cpanel to make changes or use Laravel files can be directly accessed via File Manager under the public_html folder
