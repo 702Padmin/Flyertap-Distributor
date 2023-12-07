@@ -160,4 +160,4 @@ In terms of how this notification is sent, we would like it to be via App notifi
 
 
 # Next Steps
-Continue to [Getting Started](https://github.com/702Padmin/Flyertap-Distributor/edit/dev/GettingStarted.md)
+Continue to [Getting Started](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/GettingStarted.md)
