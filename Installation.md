@@ -1,4 +1,6 @@
 ## Installation
+These instructions are for installing the dev Repository to your computer.
+
 ### Required Versions
 -  Built with:
 -  Flutter SDK: 3.7.11 -channel stable
