@@ -1,6 +1,6 @@
 # Getting Started
 To start work on the project, download and set up the dev Repository on your computer if you have not already.
-Instructions for installation can be found on the Readme on the main repo.
+Instructions for installation can be found [here](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/Installation.md)
 
 # Deliverables
 Complete the tasks below to complete the 1st Milestone. (Check off completed items)
