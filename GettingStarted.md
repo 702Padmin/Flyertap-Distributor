@@ -1,18 +1,18 @@
 # Flyertap Distributor App
-To start work on the project, download and setup the dev Repository on to you computer if you have not already.
-Instuctions for installation can be found on the Readme on the main repo.
+To start work on the project, download and set up the dev Repository on your computer if you have not already.
+Instructions for installation can be found on the Readme on the main repo.
 
 # Deliverables
-Complete tasks below. (Check off completed items)
+Complete the tasks below. (Check off completed items)
 
 ### Database Setup
 - [ ] Change **Mobile App** database from SQLite to MySQL
-(Login to Cpanel using credentials below to get access to database.)
+(Login to Cpanel using the credentials below to get access to the database.)
 Username: admflyertap
 Passowrd: RRR(jvf+y7OZ 
 Login URL: https://adm.flyertap.com/cpanel
-- Login and go to phpMyAdmin and use the admflyertap_db database to store all Mobile App data. Make whatever changes needed to complete task.
-- This database is a mySQL Laravel Based databsse, if any modification need to be made to the database, you can use the terminal found on the CPanel to make changes or laravel files can be directly accessed via File Manager under the public_html folder
+- Log in and go to phpMyAdmin and use the admflyertap_db database to store all Mobile App data. Make whatever changes are needed to complete the task.
+- This database is a MySQL Laravel-based database, if any modification needs to be made to the database, you can also use the terminal found on the Cpanel to make changes or use Laravel files can be directly accessed via File Manager under the public_html folder
 
 ### Mobile App Registration
 - [ ] Add a Login/Sign Up System  for the **Mobile App**. All User data must be saved to the newly connected MySQL database.
@@ -52,9 +52,6 @@ the following will be required fields for registration (this data must be saved 
 
 All the pictures they upload, as well as questions they answered, must be saved to the database and attached to their corresponding run activity.
 
-#Completion
-Upon completion of this milestone, we will review work and provide feedback before proceeding to the next milestone.
-
 ### Items that must be completed:
 :heavy_check_mark:  **Mobile App** must have a fully fleshed out Register/Login System.
 
@@ -67,3 +64,7 @@ Upon completion of this milestone, we will review work and provide feedback befo
 :heavy_check_mark:  The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
 
 :heavy_check_mark:  Proper Code Documentation
+
+#Completion
+Upon completion of this milestone, we will review the work and provide feedback before proceeding to the next milestone.
+Which will be about the creation of the Mobile App.
