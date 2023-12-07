@@ -31,8 +31,9 @@ Now that you have access to everything you need. We can move on to how we want t
 # Milestones
 This project is separated into 2 milestones easier management of tasks to complete.
 
-1.) Mobile App
-2.) Web Application
+- 1.) Mobile App
+- 2.) Web Application
+- 3.) Going Live
 
 Upon completion of each milestone, we will review the work and provide feedback before proceeding to the next milestone.
 
