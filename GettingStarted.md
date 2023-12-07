@@ -53,18 +53,13 @@ the following will be required fields for registration (this data must be saved 
 All the pictures they upload, as well as questions they answered, must be saved to the database and attached to their corresponding run activity.
 
 ### Items that must be completed:
-:heavy_check_mark:  **Mobile App** must have a fully fleshed out Register/Login System.
+- [ ] **Mobile App** must have a fully fleshed out Register/Login System.
+- [ ] **Mobile App** must allow users to take pictures during their runs.
+- [ ] **Mobile App** must allow users to fill out a form at the end of their run. 
+- [ ] **Mobile App** must run on Android and IOS
+- [ ] The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
+- [ ] Proper Code Documentation
 
-:heavy_check_mark:  **Mobile App** must allow users to take pictures during their runs.
-
-:heavy_check_mark:  **Mobile App** must allow users to fill out a form at the end of their run. 
-
-:heavy_check_mark:  **Mobile App** must run on Android and IOS
-
-:heavy_check_mark:  The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
-
-:heavy_check_mark:  Proper Code Documentation
-
-#Completion
+# Completion
 Upon completion of this milestone, we will review the work and provide feedback before proceeding to the next milestone.
 Which will be about the creation of the Mobile App.
