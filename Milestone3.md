@@ -1,5 +1,5 @@
 # Milestone 3
-Once both project have been approved we are ready to go live.
+Once both projects have been approved we are ready to go live. We have to publish the Mobile App to the Android and IOS App store.
 
 # Deliverables
 Complete the tasks below to complete the 3rd and final Milestone.
