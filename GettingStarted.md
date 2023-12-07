@@ -1,9 +1,9 @@
-# Flyertap Distributor App
+# Getting Started
 To start work on the project, download and set up the dev Repository on your computer if you have not already.
 Instructions for installation can be found on the Readme on the main repo.
 
 # Deliverables
-Complete the tasks below. (Check off completed items)
+Complete the tasks below to complete the 1st Milestone. (Check off completed items)
 
 ### Database Setup
 - [ ] Change **Mobile App** database from SQLite to MySQL
