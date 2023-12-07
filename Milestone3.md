@@ -5,6 +5,5 @@ Once both project have been approved we are ready to go live.
 Complete the tasks below to complete the 3rd and final Milestone.
 
 
-:heavy_check_mark:  **Mobile App** must run on Android and IOS
-
-:heavy_check_mark:  The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
+- [ ] **Mobile App** must run on Android and IOS
+- [ ] The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
