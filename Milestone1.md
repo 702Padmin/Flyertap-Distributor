@@ -1,5 +1,5 @@
 # Milestone 1
-The first milestone is to get the Mobile App setup for users to be able to user to track their runs.
+The first milestone is to get the Mobile App up and running. Again the main goal is to create an App where users can register, sign in, and track their runs. Where all data will be stored on a MySQL database.
 
 # Deliverables
 Complete the tasks below to complete the 1st Milestone. (Check off completed items)
