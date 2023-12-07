@@ -1,5 +1,5 @@
 ## Installation
-These instructions are for installing the dev Repository to your computer.
+These instructions are for installing the Flutter Mobile App (the dev Repository) to your computer.
 
 ### Required Versions
 -  Built with:
