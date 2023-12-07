@@ -54,4 +54,4 @@ All the pictures they upload, as well as questions they answered, must be saved 
 - [ ] Proper Code Documentation
 
 # Next Step
-Go to [Milestone 1](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/Milestone2.md)
+Go to [Milestone 2](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/Milestone2.md)
