@@ -37,6 +37,6 @@ This project is separated into 2 milestones easier management of tasks to comple
 Upon completion of each milestone, we will review the work and provide feedback before proceeding to the next milestone.
 
 
-# Next
-Go to Milestone 1
+# Next Step
+Go to [Milestone 1](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/Milestone1.md)
 
