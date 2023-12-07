@@ -64,4 +64,4 @@ All the pictures they upload, as well as questions they answered, must be saved 
 
 # Completion
 Upon completion of this milestone, we will review the work and provide feedback before proceeding to the next milestone.
-Which will be about the creation of the Mobile App.
+Which will be about the creation of the Admin Side Web App
