@@ -52,3 +52,6 @@ All the pictures they upload, as well as questions they answered, must be saved 
 - [ ] **Mobile App** must run on Android and IOS
 - [ ] The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
 - [ ] Proper Code Documentation
+
+# Next Step
+Go to [Milestone 1](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/Milestone2.md)
