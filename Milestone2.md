@@ -8,6 +8,7 @@ To log in to the admin and see what it looks like, go [here](https://adm.flyerta
 Login Credentials to login into the CRM are as follows:
 - Email: admin@softui.com
 - Password: secret
+- Login URL: [https://adm.flyertap.com/login](https://adm.flyertap.com/login)
 
 
 # Deliverables
