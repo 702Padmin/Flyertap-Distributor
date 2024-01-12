@@ -53,7 +53,7 @@ All the pictures they upload, as well as questions they answered, must be saved 
 - [ ] The **Mobile App** must be Uploaded to Android and IOS Playstore once going live.
 - [ ] Proper Code Documentation
 
-# Pusing Changes
+# Pushing Changes
 Pushing changes to the repository, push changes to dev Repository only. We will conduct a review and provide feeback.
 
 
