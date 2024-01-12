@@ -20,4 +20,5 @@ It is one of the tasks for the [1st milestone](https://github.com/702Padmin/Flye
 - [ ] A Final Picture (photo upload, required)
 - [ ] Once submitted, the user will be redirected back to the home screen.
 
+Email Template
 
