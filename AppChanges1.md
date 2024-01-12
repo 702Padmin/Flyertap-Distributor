@@ -7,7 +7,7 @@
 - [ ] When I completed a run, the screen would go white and I had to exit and go back into the App (See Video).
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg' width='300'>
 
-[![Watch the video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg)](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/120619-720x1600.mp4)
+[![Watch the video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg)](https://youtu.be/vt5fpE0bzSY)
 
 
 
