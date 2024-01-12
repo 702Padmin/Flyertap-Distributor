@@ -5,6 +5,8 @@
 ### Issues and bugs
 - [ ] There is a weird white bar on the loading screen (See Video).
 - [ ] When I completed a run, the screen would go white (See Video).
+<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg' width='300'>
+
 
 ### Add Labels to inputs on both Login and Sign Up Forms
 - [ ] Phone Number Field label needs to say "Phone Number"
