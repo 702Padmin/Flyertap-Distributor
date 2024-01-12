@@ -41,7 +41,7 @@ the following will be required fields for registration (this data must be saved 
 - [ ] What Campaign did you complete?
 - [ ] Which Zipcode did you distribute for?
 - [ ] Additional Notes (for example any issues experienced)
-- [ ] A Final Picture (Optional. This will be so we can verify they completed the flyer distribution.)
+- [ ] A Final Picture (This will be so we can verify they completed the flyer distribution.)
 
 All the pictures they upload, as well as questions they answered, must be saved to the database and attached to their corresponding run activity.
 
