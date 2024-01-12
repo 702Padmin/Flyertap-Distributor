@@ -11,7 +11,7 @@ Add Labels to inputs on both Login and Sign Up Forms
 - [ ] Start Date Field needs label: "When are you available to start work?"
 - [ ] Locations Fields all need Labels: And they need to be as follows: Street Address, City, State, Zip
 
-![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png)
+
 
 
 Once a user completes their run there is supposed to be a form they need to submit that is submitted into the database under that run activity,
@@ -24,4 +24,7 @@ It is one of the tasks for the [1st milestone](https://github.com/702Padmin/Flye
 - [ ] Once submitted, the user will be redirected back to the home screen.
 
 Email Template
+We want to make some changes to the email template:
+![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png)
+![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/em_temp.png)
 
