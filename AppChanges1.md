@@ -11,6 +11,9 @@ Add Labels to inputs on both Login and Sign Up Forms
 - [ ] Start Date Field needs label: "When are you available to start work?"
 - [ ] Locations Fields all need Labels: And they need to be as follows: Street Address, City, State, Zip
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png))
+
+
 Once a user completes their run there is supposed to be a form they need to submit that is submitted into the database under that run activity,
 It is one of the tasks for the [1st milestone](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/Milestone1.md) called "Mobile App Run tracking Photo Feature"
 - [ ] Once the user stops the timer and completes the run we want users to be prompted to fill out a form with the following questions:
