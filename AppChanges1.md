@@ -25,8 +25,10 @@ It is one of the tasks for the [1st milestone](https://github.com/702Padmin/Flye
 - [ ] Once submitted, the user will be redirected back to the home screen.
 
 ### Email Template
-We want to make some changes to the email template that get sent to the user when logging into the website:
-
-<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png' width='400'>
-<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/em_temp.png' width='400'>
+We want to make some changes to the email template that gets sent to the user when logging into the website:
+- [ ] Change the subject.
+- [ ] Change the from email.
+- [ ] Style template to look like the 2nd image below.
+<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png' width='600'>
+<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/em_temp.png' width='600'>
 
