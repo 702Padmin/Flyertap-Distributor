@@ -7,11 +7,12 @@
 - [ ] When I completed a run, the screen would go white (See Video).
 
 ### Add Labels to inputs on both Login and Sign Up Forms
+- [ ] Phone Number Field label needs to say "Phone Number"
 - [ ] Work Amount Field Needs to be a Select Input. (Label: "What job type are you looking for?"  Options: (Full-time, Part-time, Gig Work))
 - [ ] Start Date Field needs label: "When are you available to start work?"
 - [ ] Locations Fields all need Labels: And they need to be as follows: Street Address, City, State, Zip
 
-
+![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/SignInForm.jpg)
 
 ### Mobile App Run tracking Photo Feature
 Once a user completes their run there is supposed to be a form they need to submit that is submitted into the database under that run activity,
