@@ -12,7 +12,7 @@
 - [ ] Start Date Field needs label: "When are you available to start work?"
 - [ ] Locations Fields all need Labels: And they need to be as follows: Street Address, City, State, Zip
 
-![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/SignInForm.jpg | width=100)
+![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/SignInForm.jpg|width=100)
 
 ### Mobile App Run tracking Photo Feature
 Once a user completes their run there is supposed to be a form they need to submit that is submitted into the database under that run activity,
