@@ -26,6 +26,7 @@ It is one of the tasks for the [1st milestone](https://github.com/702Padmin/Flye
 
 ### Email Template
 We want to make some changes to the email template that get sent to the user when logging into the website:
-![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png)
-![alt text](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/em_temp.png)
+
+<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/EmailTemplate.png' width='400'>
+<img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/em_temp.png' width='400'>
 
