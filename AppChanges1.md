@@ -3,17 +3,17 @@
 ## Login/Sign Up Process
 
 ### Issues and bugs
-- [ x ] There is a weird white bar on the loading screen (See Image Below).
+- [x] There is a weird white bar on the loading screen (See Image Below).
 - [ ] When I completed a run, the screen would go white and I had to exit and go back into the App ( [See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/120619-720x1600.mp4) ).
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg' width='300'>
 
 
 
 ### Add Labels to inputs on both Login and Sign Up Forms
-- [ ] Phone Number Field label needs to say "Phone Number"
-- [ ] Work Amount Field Needs to be a Select Input. (Label: "What job type are you looking for?"  Options: (Full-time, Part-time, Gig Work))
-- [ ] Start Date Field needs label: "When are you available to start work?"
-- [ ] Locations Fields all need Labels: And they need to be as follows: Street Address, City, State, Zip
+- [x] Phone Number Field label needs to say "Phone Number"
+- [x] Work Amount Field Needs to be a Select Input. (Label: "What job type are you looking for?"  Options: (Full-time, Part-time, Gig Work))
+- [x] Start Date Field needs label: "When are you available to start work?"
+- [x] Locations Fields all need Labels: And they need to be as follows: Street Address, City, State, Zip
 
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/PhoneNumber%20Field.jpg' width='300'>
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/SignInForm.jpg' width='300'>
