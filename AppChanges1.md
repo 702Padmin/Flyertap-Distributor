@@ -3,11 +3,14 @@
 ## Login/Sign Up Process
 
 ### Issues and bugs
-- [x] There is a weird white bar on the loading screen (See Image Below).
-- [ ] When I completed a run, the screen would go white and I had to exit and go back into the App ( [See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/120619-720x1600.mp4) ).
+- [ ] There is a weird white bar on the loading screen (See Image Below).
+- [ ] App crashes when starting the run and clicking the back button. ([See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/app_crash.mp4))
+- [x] When I completed a run, the screen would go white and I had to exit and go back into the App ( [See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/120619-720x1600.mp4) ).
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg' width='300'>
 
 
+### Form Steps
+- [ ] When registering, you fill out the information, click the back button, and then continue, all data previously entered is cleared. We want that info entered to stay. ( [See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/modify_form.mp4) )
 
 ### Add Labels to inputs on both Login and Sign Up Forms
 - [x] Phone Number Field label needs to say "Phone Number"
