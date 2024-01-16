@@ -9,7 +9,7 @@
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg' width='300'>
 
 
-### Form Steps
+### Form Steps (NEW)
 - [ ] When registering, you fill out the information, click the back button, and then continue, all data previously entered is cleared. We want that info entered to stay. ( [See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/modify_form.mp4) )
 
 ### Add Labels to inputs on both Login and Sign Up Forms
