@@ -3,7 +3,7 @@
 ## Login/Sign Up Process
 
 ### Issues and bugs
-- [ ] There is a weird white bar on the loading screen (See Image Below).
+- [ x ] There is a weird white bar on the loading screen (See Image Below).
 - [ ] When I completed a run, the screen would go white and I had to exit and go back into the App ( [See Video](https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/120619-720x1600.mp4) ).
 <img src='https://github.com/702Padmin/Flyertap-Distributor/blob/dev/imgs/Screenshot_20240112_120715.jpg' width='300'>
 
