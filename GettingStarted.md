@@ -17,7 +17,7 @@ We have set up a Cpanel account that will give you access to everything you need
 User Credentials below to log in:
 
 **Username:** admflyertap <br>
-**Passowrod:** RRR(jvf+y7OZ  <br>
+**Password:** RRR(jvf+y7OZ  <br>
 **Login URL:** https://adm.flyertap.com/cpanel
 
 With this login, you will have access to:
@@ -29,15 +29,15 @@ Now that you have access to everything you need. We can move on to how we want t
 
 # Email Server Access
 ## SMTP Credentials
-username: auth@flyertap.com
-password: uq8nm-kzgPwg
-Outgoing Server: mail.flyertap.com
+username: auth@flyertap.com <br>
+password: uq8nm-kzgPwg <br>
+Outgoing Server: mail.flyertap.com <br>
 SMTP Port: 465
 
 ## Webmail Login Credentials
-Login URL: https://flyertap.com:2096/
-username: auth@flyertap.com
-password: uq8nm-kzgPwg
+Login URL: https://flyertap.com:2096/ <br>
+username: auth@flyertap.com <br>
+password: uq8nm-kzgPwg <br>
 
 # Milestones
 This project is separated into 2 milestones easier management of tasks to complete.
