@@ -27,6 +27,17 @@ With this login, you will have access to:
 
 Now that you have access to everything you need. We can move on to how we want the project to be handled and completed.
 
+# Email Server Access
+## SMTP Credentials
+username: auth@flyertap.com
+password: uq8nm-kzgPwg
+Outgoing Server: mail.flyertap.com
+SMTP Port: 465
+
+## Webmail Login Credentials
+Login URL: https://flyertap.com:2096/
+username: auth@flyertap.com
+password: uq8nm-kzgPwg
 
 # Milestones
 This project is separated into 2 milestones easier management of tasks to complete.
