@@ -30,9 +30,9 @@ the following will be required fields for registration (this data must be saved 
 
 ### Mobile App Login
 - [x] For the login process, we want to do a simple login that requires the following to log in credentials:
-- registered email
-- verification code that is sent to their email
-- No password required 
+- [x] registered email
+- [x] verification code that is sent to their email
+- [x] No password required 
 
 ### Mobile App Run tracking Photo Feature
 - [ ] When you start a run, we want to add the ability for users to take photos during their runs, we need this feature to verify people are doing their job during their runs.
