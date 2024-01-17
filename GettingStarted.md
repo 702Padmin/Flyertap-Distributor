@@ -11,6 +11,9 @@ Instructions for installation can be found [here](https://github.com/702Padmin/F
 
 Once you are done with the installation you will have the entire Flutter Mobile App files at your disposal to  work on.
 
+#Mobile App Mockups
+Mobile App mockups can be found [here](https://www.figma.com/file/mQ24o5iLIDgja7tvfbPo6y/run-tracker-app---login-dashboard?type=design&node-id=0%3A1&mode=design&t=hgDmbTW2cmFXXeVi-1)
+
 # Cpanel Access
 We have set up a Cpanel account that will give you access to everything you need to complete the project.
 
