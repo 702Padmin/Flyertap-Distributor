@@ -20,7 +20,7 @@ We have set up a Cpanel account that will give you access to everything you need
 User Credentials below to log in:
 
 **Username:** admflyertap <br>
-**Password:** RRR(jvf+y7OZ  <br>
+**Password:** RRRjvf+y7OZ  <br>
 **Login URL:** https://adm.flyertap.com/cpanel
 
 With this login, you will have access to:
